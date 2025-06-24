@@ -23,10 +23,10 @@ I got all the footprints into KiCad, and started placing them around the schemat
 
 I built the entire schematic and PCB, and routed the board.
 
-[Schematic]
+![Schematic](https://github.com/LayanJethwa/slot-machine/blob/main/images/24-06-1.png)
 
-[PCB]
+![PCB](https://github.com/LayanJethwa/slot-machine/blob/main/images/24-06-2.png)
 
-[3D model]
+![3D model](https://github.com/LayanJethwa/slot-machine/blob/main/images/24-06-3.png)
 
 **Total time spent: 2h**
